@@ -1,0 +1,13 @@
+---
+thing:
+  value: 4
+
+<<<:
+  thing:
+    additional: 6
+
+!recursive_merge :
+  thing:
+    yet_another_recursive_merge: true
+
+<<<: !include test_simple_mapping.yaml

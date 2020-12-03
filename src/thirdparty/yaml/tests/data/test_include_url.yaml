@@ -1,0 +1,1 @@
+value: !include-url:bin file:///projects/stable/xyaml/test.txt

@@ -1,0 +1,1 @@
+value: !include:verbatim test_simple_text.txt
